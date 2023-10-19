@@ -16,6 +16,7 @@ public class PhotosController {
 }};
 
 
+    ///this is for test
     @GetMapping("/")
    public String hello(){
        return "Hello World!";
